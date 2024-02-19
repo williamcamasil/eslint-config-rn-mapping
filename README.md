@@ -1,0 +1,1 @@
+# eslint-config-rn-mapping
