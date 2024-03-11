@@ -3228,7 +3228,7 @@ __metadata:
     eslint-plugin-jsx-a11y: 6.7.1
     eslint-plugin-react-perf: 3.3.1
     eslint-plugin-testing-library: 5.10.3
-    mapping-tools-rn: "git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#dev"
+    mapping-tools-rn: "git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#master"
   languageName: unknown
   linkType: soft
 
@@ -5607,9 +5607,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mapping-tools-rn@git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#dev":
+"mapping-tools-rn@git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#master":
   version: 1.0.0
-  resolution: "mapping-tools-rn@git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#commit=b3bee514f81515649918f718f99378dd9f1aace3"
+  resolution: "mapping-tools-rn@git+ssh://git@github.com-pessoal:williamcamasil/mapping-tools-rn.git#commit=0ee9e78d1622ca2ea3befdbf6bccfc5d75b484fd"
   dependencies:
     "@commitlint/cli": 17.6.1
     "@commitlint/config-angular": 17.6.1
@@ -5637,7 +5637,7 @@ __metadata:
     sync-with-core: ./lib/scripts/sync-with-core.js
     upgrade-app-modules: ./lib/scripts/upgrade-app-modules.js
     validate-dependencies: ./lib/scripts/validate-dependencies.js
-  checksum: 68662327a1242924e2f2fb5e3a638b5bedb13b042b3689aac346c6934c080e21af2fae49aaf86122185980802aaff24726c3c9a21d32c2c40cb760190a48e0d2
+  checksum: 79e8cb0860e057ddb844493bb46c275cbc44cec2548ad31934196d11eb7ef0e6b4bee8ae672e1f39bef0be762300100ae7b3aebc29315f5978afd70f7556c1b8
   languageName: node
   linkType: hard
 
